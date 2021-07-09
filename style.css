@@ -50,3 +50,30 @@
 .categories img {
     width: 100px;
 }
+
+.card {
+    border: none !important;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px!important;
+}
+
+.card-footer {
+    background-color: white!important;
+    border-top: none!important;
+}
+
+#contact {
+    height: 300px;
+}
+
+#contact h6 {
+    color: grey;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none !important;
+}
